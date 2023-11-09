@@ -1,10 +1,14 @@
-a {
-    font-family: 'Courier New', Courier, monospace;
-    color: saddlebrown;
-}
-
-h1 {
+h1,
+h2,
+h3 {
     font-family: 'Courier New', Courier, monospace;
     color: darkslategrey;
     font-weight: 900;
+}
+
+ul,
+ol,
+p {
+    font-family: 'Courier New', Courier, monospace;
+    color: saddlebrown;
 }
