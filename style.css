@@ -1,10 +1,33 @@
-a {
+* {
+    background-color: antiquewhite;
+}
+
+.title {
+    font-family: 'Courier New', Courier, monospace;
+    color: darkslategrey;
+    font-weight: 900;
+    text-align: center;
+}
+
+.item {
+    display: block;
     font-family: 'Courier New', Courier, monospace;
     color: saddlebrown;
 }
 
-h1 {
-    font-family: 'Courier New', Courier, monospace;
-    color: darkslategrey;
-    font-weight: 900;
+
+.wrapper {
+    border: 2px dotted steelblue;
+    padding: 18px;
+    width:fit-content;
+    margin: 0 auto;
 }
+
+/* * {
+    border: 2px solid red;
+  } */
+  
+
+
+
+
