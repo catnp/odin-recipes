@@ -1,3 +1,3 @@
 # odin-recipes
 
-Store some recipes for safekeeping!
+Store some recipes for safekeeping.
